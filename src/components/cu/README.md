@@ -1,1 +1,0 @@
-CU component folder
